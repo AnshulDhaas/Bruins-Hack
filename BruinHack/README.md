@@ -1,2 +1,0 @@
-# BHSite
-Bruins Hack website
